@@ -1,0 +1,612 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"namespace_key"
+			],
+			[
+				"echonest",
+				"echonest_id"
+			],
+			[
+				"ech",
+				"echonest_id"
+			],
+			[
+				"echon",
+				"echonest_artist_id"
+			],
+			[
+				"AudioSu",
+				"AudioSummarySerializer"
+			],
+			[
+				"for",
+				"foreign_id"
+			],
+			[
+				"artist",
+				"artist"
+			],
+			[
+				"forei",
+				"foreign_artist_id"
+			],
+			[
+				"URL",
+				"URLField"
+			],
+			[
+				"strings_song",
+				"strings_song_serializer"
+			],
+			[
+				"strings",
+				"strings_song_serializer"
+			],
+			[
+				"last_",
+				"last_song_played"
+			],
+			[
+				"set",
+				"set_trace"
+			],
+			[
+				"user_",
+				"user_profile_object"
+			],
+			[
+				"last",
+				"lastSongPlayed"
+			],
+			[
+				"assoi",
+				"associated_user"
+			],
+			[
+				"track",
+				"track_count"
+			],
+			[
+				"retu",
+				"return_dict"
+			],
+			[
+				"is",
+				"isrcs"
+			],
+			[
+				"stream",
+				"streamRegions"
+			],
+			[
+				"returned",
+				"returned_songs"
+			],
+			[
+				"songs",
+				"songs_request"
+			],
+			[
+				"trac",
+				"trackCount"
+			],
+			[
+				"songs_",
+				"songs_request"
+			],
+			[
+				"rdio",
+				"rdio_request"
+			],
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"parsed",
+				"parsed_token"
+			],
+			[
+				"keys",
+				"keys_to_get"
+			],
+			[
+				"retur",
+				"returned_song"
+			],
+			[
+				"return",
+				"returned_song"
+			],
+			[
+				"True",
+				"True"
+			],
+			[
+				"serial",
+				"serializable_data"
+			],
+			[
+				"get",
+				"get_song"
+			],
+			[
+				"RdioSong",
+				"RdioSongSerializer"
+			],
+			[
+				"RDIO",
+				"RdioSongSerializer"
+			],
+			[
+				"HTTP",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"AudioSum",
+				"AudioSummary"
+			],
+			[
+				"AudioSummary",
+				"AudioSummarySerializer"
+			],
+			[
+				"API",
+				"APIView"
+			],
+			[
+				"req",
+				"requesting_user"
+			],
+			[
+				"strin",
+				"strings_user_key"
+			],
+			[
+				"echo",
+				"echo_nest_queryset"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"rdio_song",
+				"rdio_song_serializer"
+			],
+			[
+				"Rdio",
+				"RdioUserSerializer"
+			],
+			[
+				"parm",
+				"parameters"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"Audio",
+				"AudioSummarySerializer"
+			],
+			[
+				"Play",
+				"PlaylistSerializer"
+			],
+			[
+				"Model",
+				"ModelSerializer"
+			],
+			[
+				"Moo",
+				"MOOD_CHOICES"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"re",
+				"rest_framework"
+			],
+			[
+				"Snipp",
+				"SnippetSerializer"
+			],
+			[
+				"Snippet",
+				"SnippetSerializer"
+			],
+			[
+				"csrf",
+				"csrf_exempt"
+			],
+			[
+				"csr",
+				"csrf_exempt"
+			],
+			[
+				"JSON",
+				"JSONRenderer"
+			],
+			[
+				"l",
+				"linenos"
+			],
+			[
+				"ST",
+				"STYLE_CHOICES"
+			],
+			[
+				"la",
+				"LANGUAGE_CHOICES"
+			],
+			[
+				"Lang",
+				"LANGUAGE_CHOICES"
+			],
+			[
+				"get_all",
+				"get_all_lexers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "gamelogic.py",
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "gamecontent.py\n",
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andkon/Developer/StringsBackend/Strings/testing/testcase.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/testing/factories.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/testing/__init__.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/testing/utils.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/Strings/settings.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/api/tests/__init__.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/api/tests/test_views.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/Strings/urls.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/Strings/tests.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/extapi/models.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/api/serializers.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/api/models.py",
+		"/Users/andkon/Developer/StringsBackend/Mood storage ideas v2.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/Strings/testcase.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/api/tests.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/moodranker/moodranker.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/extapi/ext.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/api/views.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/api/__init__.py",
+		"/Users/andkon/Desktop/errror.html",
+		"/Users/andkon/Developer/StringsBackend/Strings/extapi/credentials.py",
+		"/Users/andkon/Developer/StringsBackend/Strings/Strings/wsgi.py",
+		"/Users/andkon/Developer/Enveloper/.gitignore",
+		"/Users/andkon/.bash_profile",
+		"/Users/andkon/Dropbox/Projects/Strings/Mood Research/25 Category Algo/Raw CSVs/December 6.csv",
+		"/Users/andkon/Dropbox/Projects/Strings/Mood Research/25 Category Algo/Raw CSVs/December 2.csv",
+		"/Users/andkon/Developer/Python-Django/mysite/polls/tests.py",
+		"/Users/andkon/Dropbox/Projects/Strings/Mood Research/25 Category Algo/Raw CSVs/November 25",
+		"/Users/andkon/Developer/Python-Django/mysite/mysite/settings.py",
+		"/Users/andkon/Developer/Python-Django/mysite/polls/models.py",
+		"/Users/andkon/Dropbox/Public/Plan.html",
+		"/Users/andkon/Desktop/test2.csv",
+		"/Users/andkon/Downloads/full.json",
+		"/Users/andkon/Dropbox/Mongol Rally.xml",
+		"/Users/andkon/Desktop/Strings.fm website/index.html",
+		"/Users/andkon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/andkon/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"track",
+			"get_echo",
+			"song",
+			"audiosummary",
+			"albumKey",
+			"echo",
+			"echonest",
+			"append",
+			"albumartist",
+			"artistkey",
+			"echonest",
+			"append",
+			"pdb",
+			"associated_user",
+			".object",
+			"%",
+			"pdb",
+			"RdioSong",
+			"user_key",
+			"auth_key",
+			"auth",
+			"icon",
+			"audio_summary",
+			"bigicon",
+			"encode_this",
+			"try",
+			"user",
+			"song",
+			"field",
+			"price",
+			"pk",
+			"userprofile",
+			"save",
+			"rdio_user_authorized",
+			".views",
+			".model",
+			"app",
+			"api",
+			"app",
+			"user",
+			"userprofile",
+			"make_one",
+			"song",
+			"all_songs",
+			"create",
+			"rdio_user",
+			"undefined",
+			"object",
+			"request",
+			"object",
+			"client",
+			"user_key",
+			"rdio_ca_song",
+			"many=False",
+			"primary_key",
+			"requests",
+			"NO_CONTENT",
+			"mood",
+			"128.007"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true
+}
