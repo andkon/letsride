@@ -34,7 +34,7 @@ class StdOutListener(StreamListener):
 					api.update_status(status, received_status_id)
 		
 			else:
-				# here's where you run the logic to find out if they're allowed to reply to that tweet
+				# here's where you run the game logic
 				print "@%s replied to this tweet %s with this text: %s" % (gamer_screen_name, previous_status_id, received_status_text)
 				# Basically, 
 
